@@ -12,7 +12,13 @@ J’aime concevoir des interfaces claires, dynamiques et logiques, que ce soit p
 - JavaScript (DOM, ES6+, AJAX)
 - React PHP
 - TailwindCSS / Bootstrap
-https://camo.githubusercontent.com/4c595c775f0b24099d92056e13f0fab83aa00a381ac6027ecaa30c9f6acd8c00/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d68746d6c2c6373732c626f6f7473747261702c6a732c6a7175657279
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" alt="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" alt="CSS3"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" alt="PHP"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" alt="MySQL"/>
+</p>
 ### Back-end
 - PHP (procédural & MVC)
 - MySQL
