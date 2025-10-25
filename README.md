@@ -8,9 +8,11 @@ J’aime concevoir des interfaces claires, dynamiques et logiques, que ce soit p
 ## 💻 Compétences principales
 
 ### 🧩 Front-end
-- HTML5, CSS3 (Flexbox, Grid, animations)   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" alt="HTML5"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" alt="CSS3"/>
-- JavaScript (DOM, ES6+, AJAX)
-- React PHP
+- HTML, CSS <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" alt="HTML5"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" alt="CSS3"/>
+- JavaScript <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JavaScript"/>
+- React 
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+          
 - TailwindCSS / Bootstrap
 
 
@@ -18,8 +20,8 @@ J’aime concevoir des interfaces claires, dynamiques et logiques, que ce soit p
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" alt="PHP"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" alt="MySQL"/>
 ### Back-end
-- PHP (procédural & MVC)
-- MySQL
+- PHP 
+- MySQL <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" alt="MySQL"/>
 
 ### Outils et environnement
 - Git / GitHub
