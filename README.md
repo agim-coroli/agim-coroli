@@ -10,20 +10,16 @@ J’aime concevoir des interfaces claires, dynamiques et logiques, que ce soit p
 ### 🧩 Front-end
 - HTML5, CSS3 (Flexbox, Grid, animations)
 - JavaScript (DOM, ES6+, AJAX)
-- React (hooks, composants, logique interactive)
+- React PHP
 - TailwindCSS / Bootstrap
 
-### 🧠 Back-end
+### Back-end
 - PHP (procédural & MVC)
-- MySQL (sécurisation, requêtes préparées)
-- API REST, AJAX
-- Contrôleur frontal, routage
+- MySQL
 
-### 🧰 Outils et environnement
+### Outils et environnement
 - Git / GitHub
 - VSCode
-- XAMPP / Apache
-- Méthodologie projet (modulaire, réutilisable)
 
 ---
 
