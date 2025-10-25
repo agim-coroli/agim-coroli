@@ -8,17 +8,15 @@ J’aime concevoir des interfaces claires, dynamiques et logiques, que ce soit p
 ## 💻 Compétences principales
 
 ### 🧩 Front-end
-- HTML5, CSS3 (Flexbox, Grid, animations)
+- HTML5, CSS3 (Flexbox, Grid, animations)   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" alt="HTML5"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" alt="CSS3"/>
 - JavaScript (DOM, ES6+, AJAX)
 - React PHP
 - TailwindCSS / Bootstrap
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" alt="HTML5"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" alt="CSS3"/>
+
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JavaScript"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" alt="PHP"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" alt="MySQL"/>
-</p>
 ### Back-end
 - PHP (procédural & MVC)
 - MySQL
