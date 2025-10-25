@@ -1,16 +1,63 @@
-## Hi there 👋
+# 👋 Salut, moi c’est Maître
 
-<!--
-**agim-coroli/agim-coroli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Je suis **développeur web fullstack**, passionné par la création d’expériences interactives et pédagogiques.  
+J’aime concevoir des interfaces claires, dynamiques et logiques, que ce soit pour des applications web ou des modules d’apprentissage interactifs.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Compétences principales
+
+### 🧩 Front-end
+- HTML5, CSS3 (Flexbox, Grid, animations)
+- JavaScript (DOM, ES6+, AJAX)
+- React (hooks, composants, logique interactive)
+- TailwindCSS / Bootstrap
+
+### 🧠 Back-end
+- PHP (procédural & MVC)
+- MySQL (sécurisation, requêtes préparées)
+- API REST, AJAX
+- Contrôleur frontal, routage
+
+### 🧰 Outils et environnement
+- Git / GitHub
+- VSCode
+- XAMPP / Apache
+- Méthodologie projet (modulaire, réutilisable)
+
+---
+
+## 🚀 Projets récents
+
+### 🎓 Module interactif — *Apprentissage des raccourcis clavier VSCode*
+> Un site web pédagogique qui permet aux débutants de découvrir et pratiquer les raccourcis clavier de VSCode à travers des exercices interactifs avec **Monaco Editor** et un système de **validation dynamique en AJAX**.
+
+🧩 Technologies : PHP, JS, AJAX, Monaco Editor, MySQL  
+🔗 [Voir le dépôt](#)
+
+---
+
+### 🧮 Calculatrice JavaScript
+> Une calculatrice simple développée dans le but de renforcer mes bases en **fonctions, boucles et événements DOM**.
+
+🧩 Technologies : HTML, CSS, JavaScript  
+🔗 [Voir le dépôt](#)
+
+---
+
+### 🌐 Module de QCM dynamique en PHP
+> Système d’évaluation en ligne avec **timer**, **validation AJAX** et **stockage des résultats** en base de données.
+
+🧩 Technologies : PHP, MySQL, JS  
+🔗 [Voir le dépôt](#)
+
+---
+
+## 📫 Me contacter
+💼 [Mon profil LinkedIn](#)  
+📧 [monadresse@email.com](mailto:monadresse@email.com)
+
+---
+
+> *“Un bon code, c’est celui qu’on comprend demain.”*  
+> — Maître
