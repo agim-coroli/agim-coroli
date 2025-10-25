@@ -37,9 +37,9 @@ Technologies : PHP, JS, AJAX, Monaco Editor, MySQL
 
 ## Me contacter
 
-[Mon profil LinkedIn](https://www.linkedin.com/in/agim-coroli-167084260/)  
-[Mon portfolio](http://www.agim.shop/)  
-[Mon adresse email](mailto:agim.coroli.pro@gmail.com)
+<a href="https://www.linkedin.com/in/agim-coroli-167084260/" target="_blank" rel="noopener noreferrer">Mon profil LinkedIn</a><br>
+<a href="http://www.agim.shop/" target="_blank" rel="noopener noreferrer">Mon portfolio</a><br>
+<a href="mailto:agim.coroli.pro@gmail.com" target="_blank" rel="noopener noreferrer">Mon adresse email</a>
 
 ---
 
